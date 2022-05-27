@@ -6,10 +6,10 @@ function App() {
 
   return (
     <div className="App">
-    <Test
-      name="DOE"
-      firstname="John"
-    />
+      <Test
+        name="ZANZOURI"
+        firstname="Khalil"
+      />
     </div>
   );
 }
